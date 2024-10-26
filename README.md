@@ -1,31 +1,26 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]([https://rishavchanda.io](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjJ5S0xYR21vRU42ZlBjRDZMa3NNNmJvYVRtd3xBQ3Jtc0tuSnhlRGJtUTBsZDdtM2xDbXhTZzhablhueFpkYjBfZ3NmU0FDLWdiaGZRVnM5NGwzLWZ5WXd2ck1MSnZMYWQ4UUdwYnk0ZzlxanVKQnZhd0dTcmVFRzgwSWtHZGxMbWpiZC1rclhxUWU5WDRhR2VPSQ&q=https%3A%2F%2Frishavchanda.io%2F&v=G-EGDH50hGE))
+👋 Hi, I'm Tanzeel Rahman
+Computer Science Honors Student | Aspiring Software Engineer | University of South Florida
 
-<h1 align="center">Hi 👋, I'm Tanzeel Rahman</h1>
+Welcome to my GitHub profile! I’m passionate about using technology to create solutions that make a real-world impact. With experience in both software engineering and machine learning, I’m dedicated to building projects that are functional, scalable, and user-focused. My portfolio includes web applications, machine learning models, and community-driven platforms.
 
-<h3 align="center">Computer Science sophomore at University of South Florida</h3>
+🔧 Tech Stack & Skills
+Languages: Python, C/C++, JavaScript (ES6+), C#
+Web Development: HTML, CSS, React.js, Node.js, Express.js, jQuery, EJS
+Database: PostgreSQL, SQL
+Tools & Frameworks: Git, AWS, RESTful APIs, Pytorch, Scikit-learn, Tableau, Firebase, Arduino
+🌟 Featured Projects
+FacultyFinder
+A full-stack web platform for rating professors in private universities across Bangladesh. Built with React.js, Node.js, Express.js, PostgreSQL, and Vercel, this app helps students make informed choices about their courses.
 
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+Iris Flower Classification
+A machine learning project that classifies Iris flower species with 94% accuracy using Python, PyTorch, and Scikit-learn. Includes a real-time prediction app built in Streamlit.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zinels&label=Profile%20views&color=0e75b6&style=flat" alt="zinels" /> </p>
+Arduino Object Tracking Bot
+Led a team to create an object-tracking bot using C/C++ on Arduino, showcasing hands-on experience with IoT and embedded systems.
 
-<h3 align="left">Connect with me:</h3>
+Support in Crisis
+A community service platform co-founded to aid COVID-impacted communities, providing food and resources to over 10,000 individuals with a volunteer team of 50.
 
-<p align="left">
-
-<a href="https://linkedin.com/in/tanzinels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzinels" height="30" width="40" /></a>
-
-<a href="https://fb.com/https://www.facebook.com/tanzeel.rahman.7503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeel.rahman.7503" height="30" width="40" /></a>
-
-<a href="https://instagram.com/_.tnzl._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.tnzl._" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinels&show_icons=true&locale=en&layout=compact" alt="zinels" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zinels&show_icons=true&locale=en" alt="zinels" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zinels&" alt="zinels" /></p>
+📫 Connect with Me
+Email: tanz.riyan@gmail.com
+LinkedIn: linkedin.com/in/tanzinels/
