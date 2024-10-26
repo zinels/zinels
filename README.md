@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about using technology to create 
 Languages: Python, C/C++, JavaScript (ES6+), C#
 Web Development: HTML, CSS, React.js, Node.js, Express.js, jQuery, EJS
 Database: PostgreSQL, SQL
-Tools & Frameworks: Git, AWS, RESTful APIs, Pytorch, Scikit-learn, Tableau, Firebase, Arduino
+Tools & Frameworks: Git, AWS, RESTful APIs, PyTorch, Scikit-learn, Tableau, Firebase, Arduino
 🌟 Featured Projects
 FacultyFinder
 A full-stack web platform for rating professors in private universities across Bangladesh. Built with React.js, Node.js, Express.js, PostgreSQL, and Vercel, this app helps students make informed choices about their courses.
