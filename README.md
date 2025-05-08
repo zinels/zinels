@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanzeel Rahman
 
-**Computer Science Honors Student** | **Aspiring Software Engineer** | **University of South Florida**
+**Computer Science Honors Student** | **Research Assistant @ ENCODE** | **PAR-RED Research Assistant @ USF** | **Software Engineering Intern @ BTCL** | **University of South Florida**
 
 Welcome to my GitHub profile! I’m passionate about using technology to create solutions that make a real-world impact. With experience in both software engineering and machine learning, I’m dedicated to building projects that are functional, scalable, and user-focused. My portfolio includes web applications, machine learning models, and community-driven platforms.
 
